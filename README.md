@@ -46,4 +46,4 @@ Décompresser le
 
 Ouvrer le .py (Mrx-Multi-Tool)
 
-Et vous aurez accès au 2 fonctionnalités disponible
+Et vous aurez accès aux fonctionnalités disponible
