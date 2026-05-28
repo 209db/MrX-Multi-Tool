@@ -1,5 +1,6 @@
 🔍 MrX-Tool
 
+
 MrX-Tool est un outil simple avec des fonctions OSINT basiques et des raccourcis vers des ressources Discord.
 
 ⚙️ Fonctionnalités
