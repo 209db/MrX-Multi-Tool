@@ -1,3 +1,7 @@
 ❓Les application nescessaire ?
 
 Python (DERNIERE VERSION)
+Install Pillow on the CMD
+Run CMD in administrator 
+Copy or Write : pip install pillow 
+:)
