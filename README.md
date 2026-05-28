@@ -32,7 +32,7 @@ ouvre directement le serveur dans Discord (via invitation)
 
 
 
-LE TOOL N'EST PAS FINIS ! MAIS LES 2 FONCTIONS SONT UITILISABLE
+LE TOOL N'EST PAS FINIS ! MAIS LES  FONCTIONS SONT UITILISABLE
 
 
 
